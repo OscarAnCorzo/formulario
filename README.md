@@ -1,5 +1,5 @@
 # formulario
-Formulario de contactos dinamico el cual puede agregar, ordenar y eliminar contactos, desarrollado como proyecto academico con lo siguiente:
+Formulario de contactos dinamico el cual puede agregar, ordenar y eliminar contactos, desarrollado como proyecto academico con lo siguientes lenguajes:
 
 #### De etiquetado:
 <li> HTML 5 </li>
@@ -8,3 +8,6 @@ Formulario de contactos dinamico el cual puede agregar, ordenar y eliminar conta
 #### De programación:
 <li>JavaScript (JQuery)</li>
 <li>Java</li>
+
+#### Gestor de base de datos:
+<li> SQLYog (db no incluida) </li>
