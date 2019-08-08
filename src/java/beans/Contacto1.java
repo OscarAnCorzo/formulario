@@ -179,6 +179,9 @@ public class Contacto1 {
             c.setGenero(rs.getString("genero"));
             c.setCorreo(rs.getString("correo"));
             c.setFavorito(rs.getString("favorito"));
+            c.setTipoIdentificacion(rs.getString("tipo"));
+            c.setDireccion(rs.getString("direccion"));
+            c.setTelefono(rs.getString("telefono"));
             listaContactos.add(c);
 
         }
