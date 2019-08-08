@@ -6,7 +6,7 @@ Formulario de contactos dinamico el cual puede agregar, ordenar y eliminar conta
 <li> CSS 3  (framework no incluido)</li>
 
 #### De programación:
-<li>JavaScript (JQuery)</li>
+<li>JavaScript (JQuery) (AngularJS)</li>
 <li>Java</li>
 
 #### Gestor de base de datos:
