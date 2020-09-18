@@ -10,4 +10,4 @@ Formulario de contactos dinamico el cual puede agregar, ordenar y eliminar conta
 <li>Java</li>
 
 #### Gestor de base de datos:
-<li> SQLYog (db no incluida). </li>
+<li> SQLYog (db no incluida).. </li>
